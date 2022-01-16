@@ -1,0 +1,6 @@
+	Start
+
+Step 1: Take users input (email address)
+Step 2: Slice the username and domain name
+Step 3: Print the username and domain name
+Step 4: You can also customize it to send messeges to the user.

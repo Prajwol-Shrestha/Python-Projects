@@ -1,0 +1,14 @@
+	Start
+
+Step 0 : Keep the program in loop to not terminate after first attempt
+Step 1 : Take users input(guess)
+Step 2 : Take a random integer and assign it to a variable
+Step 3 : Limit the the guessing to n number of times
+Step 4 : Keep track of the number of attempts
+Step 5: Check if the random number is same as the users imput
+Step 6 : If True then display correct , increment the score and increment the attempt
+Step 7 : If False then display incorrect, lose a point and increment the attempt
+Step 8 : After each iteration display user score and attempts
+Step 9 : Go to Step 0.
+		
+	Stop
