@@ -43,5 +43,3 @@ with open(location, 'rb') as book:
 		print('---------> Cannot Read PDF <---------')
 		print('\n')
 		print('--------->Invalid PDF format <--------')
-		print('\n')
-		print('OR maybe there is something wrong with your brain that you are trying \n to convert a file that is not in .pdf format')
